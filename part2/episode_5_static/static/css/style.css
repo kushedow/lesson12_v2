@@ -1,0 +1,16 @@
+body {
+  background-color: #eee;
+  font-family: arial;
+}
+
+h2 {
+  color: orange;
+}
+
+p {
+  color: blue;
+}
+
+a {
+  color: red;
+}
